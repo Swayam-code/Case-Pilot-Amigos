@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Jasharaj/WeHack-TeamAmigos-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Jasharaj/WeHack-TeamAmigos-Backend.git
+[submodule "ml"]
+	path = ml
+	url = https://github.com/shadan1234/weHack.git
